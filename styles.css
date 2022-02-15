@@ -9,6 +9,7 @@
 #encabezado {
   text-align: center;
 }
+
 /* Add a black background color to the top navigation */
 .topnav {
     display : flex;
@@ -39,4 +40,9 @@
   .topnav a.active {
     background-color: black;
     color:white;
+  }
+
+  #inf-general{
+    margin-top: 50px;
+    text-align: center;
   }
